@@ -28,4 +28,4 @@ Le site est conçu avec **HTML, CSS (Flexbox & Grid)**, responsive pour tous les
 ## Contact
 - Email : priminezodeougan@gmail.com  
 - WhatsApp : +229 01 50 82 45 34  
-- LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/primine-zodeougan-808420325)
+- LinkedIn : https://www.linkedin.com/in/primine-zodeougan-808420325
